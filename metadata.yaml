@@ -1,0 +1,23 @@
+_repo: Canadian-Melodies-and-Poems_52803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Merkley, George E. (George Earle)
+    birthdate: 1865
+    gutenberg_agent_id: '47049'
+    url: http://www.gutenberg.org/2009/agents/47049
+description: ''
+gutenberg_issued: '2016-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Canadian Melodies and Poems
+url: http://www.gutenberg.org/ebooks/52803
